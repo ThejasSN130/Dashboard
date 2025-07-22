@@ -19,7 +19,9 @@ const Menu = () => {
 
   return (
     <div className="menu-container">
+    <a href="https://zerodha-clone-cimi.onrender.com">
       <img src="logo.png" style={{ width: "50px" }} />
+      </a>
       <div className="menus">
         <ul>
           <li>
